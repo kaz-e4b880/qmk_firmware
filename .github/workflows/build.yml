@@ -1,4 +1,4 @@
-name: build keymap
+name: Build keymap
 
 on:
   push:
