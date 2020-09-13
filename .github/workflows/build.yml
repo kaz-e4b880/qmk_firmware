@@ -3,7 +3,7 @@ name: Build keymap
 on:
   push:
     branches:
-    - vim_mac
+    - vim_mac_
 
 jobs:
   build_job:
